@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sai Sambhu Prasad Kalaga
 
-**NLP & ML Intern @ Blue Clay Health | Data Science Researcher @ SMU | Full-Stack Dev | AI Engineer | Ex-GDSC Lead | MSCS @ SMU (Dallas)**  
+**AI Engineer Trainee @ iLink Digital | Data Science RA @ SMU | Former NLP and ML @ Blue Clay Health | Full-Stack Dev | AI Engineer | Ex-GDSC Lead | MSCS @ SMU (Dallas)**  
 📍 Austin, TX | 💬 Let’s talk AI, ML, NLP, Data, or just cool side projects!
 
 ---
