@@ -14,7 +14,7 @@ I'm a full-spectrum builder with a strong brain for AI and a soft spot for clean
 - 📊 Data Analytics & Visualization
 - ☁️ Cloud Infrastructure
 
-Right now, I'm helping build scalable NLP/ML tools for healthcare at [Blue Clay Health](https://www.blueclayhealth.com/) and driving ML research at the [SMU Center for Global Health Impact](https://www.smu.edu/globalhealthimpact).
+Right now, I'm helping build scalable Agentic AI solutions at iLink Digital, and also driving Ai/ML research at the [SMU Center for Global Health Impact](https://www.smu.edu/globalhealthimpact).
 
 ---
 
