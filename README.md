@@ -4,7 +4,14 @@
 📍 Austin, TX | 💬 Let’s talk AI, ML, NLP, Data, or just cool side projects!
 
 ---
+## 🎮 Contributions Blaster
 
+Shoot my GitHub contribution blocks from the last year (auto-synced).
+
+👉 Play here: https://YOUR_USERNAME.github.io/YOUR_REPO/
+[![Play Contributions Blaster](assets/contrib-blaster.gif)](https://sambhukalaga27.github.io/sambhukalaga27/)
+
+---
 ## 🚀 A Quick Glimpse
 
 I'm a full-spectrum builder with a strong brain for AI and a soft spot for clean, useful tech. My background cuts across:
