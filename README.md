@@ -9,6 +9,7 @@
 Shoot my GitHub contribution blocks from the last year (auto-synced).
 
 👉 Play here: [Contributions Blaster](https://sambhukalaga27.github.io/sambhukalaga27/)
+
 [![Play Contributions Blaster](docs/contrib-blaster.gif)](https://sambhukalaga27.github.io/sambhukalaga27/)
 
 ---
